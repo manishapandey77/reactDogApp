@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactDogAppn/static/css/main.d0d931c2.css",
+    "main.js": "/reactDogAppn/static/js/main.d6eb7867.js",
+    "static/js/787.1ed0c42c.chunk.js": "/reactDogAppn/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/reactDogAppn/index.html",
+    "main.d0d931c2.css.map": "/reactDogAppn/static/css/main.d0d931c2.css.map",
+    "main.d6eb7867.js.map": "/reactDogAppn/static/js/main.d6eb7867.js.map",
+    "787.1ed0c42c.chunk.js.map": "/reactDogAppn/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0d931c2.css",
+    "static/js/main.d6eb7867.js"
+  ]
+}
